@@ -72,3 +72,5 @@
 
 [Functional is cool, but do you know OO - Sandro Mancuso](https://www.youtube.com/watch?v=oiFYPAel-KY&list=WL)
 
+[Jimmy Bogard - Crafting Wicked Domain Models on Vi](https://www.youtube.com/watch?v=UYmTUw5LXwQ)
+
