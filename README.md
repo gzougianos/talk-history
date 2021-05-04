@@ -74,3 +74,5 @@
 
 [Jimmy Bogard - Crafting Wicked Domain Models on Vi](https://www.youtube.com/watch?v=UYmTUw5LXwQ)
 
+[Refactoring to Immutability - Kevlin Henney](https://www.youtube.com/watch?v=APUCMSPiNh4)
+
