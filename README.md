@@ -76,3 +76,4 @@
 
 [Refactoring to Immutability - Kevlin Henney](https://www.youtube.com/watch?v=APUCMSPiNh4)
 
+[DevTernity 2017: Jakub Nabrdalik - Mid-sized Building Blocks & Hexagonal Architecture](https://www.youtube.com/watch?v=sND1AR7Q_T0)
