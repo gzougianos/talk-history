@@ -81,3 +81,5 @@
 [ITT 2018 - Jakub Nabrdalik - Hexagonal Architecture in practice](https://www.youtube.com/watch?v=sOaS83Ir8Ck)
 
 [Qualities of a Highly Effective Architect Keynote by Venkat Subramaniam](https://www.youtube.com/watch?v=QeKheNfO3Yg)
+
+[Reactive Programming in Java by Venkat Subramaniam](https://www.youtube.com/watch?v=f3acAsSZPhU)
