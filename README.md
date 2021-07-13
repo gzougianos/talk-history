@@ -87,3 +87,5 @@
 [Reactive Revolution by Josh Long](https://www.youtube.com/watch?v=4-vEW8Ck_6g)
 
 [jPrime - Common sense driven development, Bozhidar Bozhanov](https://www.youtube.com/watch?v=p6z-sOINHd0&list=LL)
+
+[Broken Buildtools and Bad Behaviors; The Maven Story by Robert Scholte](https://www.youtube.com/watch?v=2HyGxtsDf60)
