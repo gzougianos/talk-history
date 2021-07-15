@@ -89,3 +89,5 @@
 [jPrime - Common sense driven development, Bozhidar Bozhanov](https://www.youtube.com/watch?v=p6z-sOINHd0&list=LL)
 
 [Broken Buildtools and Bad Behaviors; The Maven Story by Robert Scholte](https://www.youtube.com/watch?v=2HyGxtsDf60)
+
+[Move Slow and Mend Things by Kevlin Henney](https://www.youtube.com/watch?v=1kklyq4XYpw)
