@@ -96,3 +96,5 @@
 
 
 [NDC - Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks](https://www.youtube.com/watch?v=FyCYva9DhsI)
+
+[NDC - Visualise, document and explore your software architecture - Simon Brown](https://www.youtube.com/watch?v=Ym9nhVZs89o)
