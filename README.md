@@ -99,3 +99,5 @@
 [NDC - Visualise, document and explore your software architecture - Simon Brown](https://www.youtube.com/watch?v=Ym9nhVZs89o)
 
 [Devoxx Poland - A Complete Waste of Time – Chet Haase](https://www.youtube.com/watch?v=Tz7vy2Atgks)
+
+[Deevoxx Poland - Brainstorming your way from a Monolith to a Clean Architecture by Victor Rentea](https://www.youtube.com/watch?v=4-4ahz7zDiQ)
