@@ -100,4 +100,6 @@
 
 [Devoxx Poland - A Complete Waste of Time – Chet Haase](https://www.youtube.com/watch?v=Tz7vy2Atgks)
 
-[Deevoxx Poland - Brainstorming your way from a Monolith to a Clean Architecture by Victor Rentea](https://www.youtube.com/watch?v=4-4ahz7zDiQ)
+[Devoxx Poland - Brainstorming your way from a Monolith to a Clean Architecture by Victor Rentea](https://www.youtube.com/watch?v=4-4ahz7zDiQ)
+
+[Devoxx Poland - Modules or Microservices? - Sander Mak](https://www.youtube.com/watch?v=siHAu5sIIko)
