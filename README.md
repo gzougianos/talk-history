@@ -103,3 +103,5 @@
 [Devoxx Poland - Brainstorming your way from a Monolith to a Clean Architecture by Victor Rentea](https://www.youtube.com/watch?v=4-4ahz7zDiQ)
 
 [Devoxx Poland - Modules or Microservices? - Sander Mak](https://www.youtube.com/watch?v=siHAu5sIIko)
+
+[Devoxx Poland - Architects Suck! Architecture Rocks! – James Birnie](https://www.youtube.com/watch?v=uZ9FA99m0I4)
