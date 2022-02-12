@@ -105,3 +105,7 @@
 [Devoxx Poland - Modules or Microservices? - Sander Mak](https://www.youtube.com/watch?v=siHAu5sIIko)
 
 [Devoxx Poland - Architects Suck! Architecture Rocks! – James Birnie](https://www.youtube.com/watch?v=uZ9FA99m0I4)
+
+[Devoxx Poland - The art of building Java APIs: Do's and Don'ts – Jonathan Giles](https://www.youtube.com/watch?v=r1o6fUhAd8w)
+
+[Devoxx Poland - Back to basics: threads – Adam Dubiel](https://www.youtube.com/watch?v=5R72E6vA-AU)
