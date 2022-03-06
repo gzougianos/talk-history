@@ -109,3 +109,5 @@
 [Devoxx Poland - The art of building Java APIs: Do's and Don'ts – Jonathan Giles](https://www.youtube.com/watch?v=r1o6fUhAd8w)
 
 [Devoxx Poland - Back to basics: threads – Adam Dubiel](https://www.youtube.com/watch?v=5R72E6vA-AU)
+
+[Devoxx - Majestic Modular Monoliths by Axel Fontaine](https://www.youtube.com/watch?v=BOvxJaklcr0)
