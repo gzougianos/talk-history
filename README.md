@@ -111,3 +111,5 @@
 [Devoxx Poland - Back to basics: threads – Adam Dubiel](https://www.youtube.com/watch?v=5R72E6vA-AU)
 
 [Devoxx - Majestic Modular Monoliths by Axel Fontaine](https://www.youtube.com/watch?v=BOvxJaklcr0)
+
+[Voxxed Days Vienna - David Schmitz - 10 Tips for failing badly at Microservices](https://www.youtube.com/watch?v=r8mtXJh3hzM&ab_channel=VoxxedDaysVienna)
