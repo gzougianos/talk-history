@@ -113,3 +113,5 @@
 [Devoxx - Majestic Modular Monoliths by Axel Fontaine](https://www.youtube.com/watch?v=BOvxJaklcr0)
 
 [Voxxed Days Vienna - David Schmitz - 10 Tips for failing badly at Microservices](https://www.youtube.com/watch?v=r8mtXJh3hzM&ab_channel=VoxxedDaysVienna)
+
+[Devternity - Simple and Powerful Things That Work For Me – Jakub Nabrdalik](https://www.youtube.com/watch?v=q-WNPCfshBM)
