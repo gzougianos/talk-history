@@ -114,4 +114,6 @@
 
 [Voxxed Days Vienna - David Schmitz - 10 Tips for failing badly at Microservices](https://www.youtube.com/watch?v=r8mtXJh3hzM&ab_channel=VoxxedDaysVienna)
 
+[DDD Europe 2022 - The One Question To Haunt Everyone: What is a DDD Aggregate? - Thomas Ploch](https://www.youtube.com/watch?v=zlFqjD2LKlE&list=WL)
+
 [Devternity - Simple and Powerful Things That Work For Me – Jakub Nabrdalik](https://www.youtube.com/watch?v=q-WNPCfshBM)
