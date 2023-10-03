@@ -117,3 +117,5 @@
 [DDD Europe 2022 - The One Question To Haunt Everyone: What is a DDD Aggregate? - Thomas Ploch](https://www.youtube.com/watch?v=zlFqjD2LKlE&list=WL)
 
 [Devternity - Simple and Powerful Things That Work For Me – Jakub Nabrdalik](https://www.youtube.com/watch?v=q-WNPCfshBM)
+
+[Devoxx Poland - A Different Flavor of the Distributed Transactions • Martin Stefanko](https://www.youtube.com/watch?v=9vs0rF2y1y4)
