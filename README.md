@@ -119,3 +119,5 @@
 [Devternity - Simple and Powerful Things That Work For Me – Jakub Nabrdalik](https://www.youtube.com/watch?v=q-WNPCfshBM)
 
 [Devoxx Poland - A Different Flavor of the Distributed Transactions • Martin Stefanko](https://www.youtube.com/watch?v=9vs0rF2y1y4)
+
+[Do you really need Hibernate by Simon Martinelli @ Spring I/O 2023](https://www.youtube.com/watch?v=ykoUBctblno)
